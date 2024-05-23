@@ -6,5 +6,7 @@
      - Mensajería directa con áreas de trabajo, con multiples destinatarios.
      - Dashboard de Pedido dinamico para cada orden y cliente.
      - Listado de ultimas ordenes de cada cliente, con su promedio de orden mensual.
+     - Listado de Productos con márgenes de contribución de cada producto.
+     - Adjuntar orden a otra.
      - Transporte más utilizado.
      - Información relevante de pedido: Peso del pedido - Categoría de Cliente.
