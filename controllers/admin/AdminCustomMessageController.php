@@ -100,7 +100,7 @@ public function postProcess()
                     $mail->isSMTP();
                     $mail->Host = 'smtp.gmail.com';
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'and.abarzua@dlds.cl';
+                    $mail->Username = 'AQUI EL CORREO DE SMTP';
                     $mail->Password = 'AQUI LA CONTRASEÑA DE SMTP';
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
                     $mail->Port = 587;
