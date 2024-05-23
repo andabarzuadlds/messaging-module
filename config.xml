@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>messaging</name>
+	<displayName><![CDATA[Messaging Module]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Con este modulo se modifican las mensajerias para tener una personalizacion mas detallada.]]></description>
+	<author><![CDATA[Andrés Abarzúa]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
